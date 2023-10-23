@@ -5,3 +5,5 @@ logs/
 **/.DS_Store
 tutorial.duckdb
 .user.yml
+jaffle_dagster/tmp1suj6icu
+jaffle_dagster/jaffle_dagster/__pycache__
